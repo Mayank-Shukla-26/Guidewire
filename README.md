@@ -191,6 +191,7 @@ User experience
 | APIs     | IMD + OpenWeather + AccuWeather |
 | Outage   | Downdetector                    |
 | Payments | Razorpay UPI                    |
+
 ⚙️ Architecture Decision
 
 Java → stable backend
